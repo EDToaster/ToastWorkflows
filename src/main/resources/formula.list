@@ -1,0 +1,6 @@
+a = in
+b = in
+c = in
+d = a + b
+e = b + c
+f = e + d
